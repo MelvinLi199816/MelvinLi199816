@@ -113,6 +113,7 @@
 <div align="center" >
 <img src="https://github-profile-trophy.vercel.app/?username=KDGehlot2003&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <br>
