@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi, I'm Melvin Li</h1>
-<h3 align="center">A passionate Full-Stack & Blockchain developer from New York</h3>
+<h3 align="center">A passionate Full-Stack & Blockchain developer</h3>
 <!-- <p align="center">I am fascinated by how computer technology 🌐 has changed our lives in unexpected ways. Seeing the growth of computer science made me want to study software engineering from a young age, and my enthusiasm has only grown since then. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p> -->
 
 <p align="center"> 
@@ -31,11 +31,9 @@
 <br><br>
 
 <!-- - 🔭 I’m currently working as an **Associate Product Engineer Intern at DeltaX** -->
-- 🌱 I’m currently diving deeper into **LangChain**, **GenAI**, **RAG**, and **DevOps**
-- 💬 Ask me about **Python, Machine Learning, MERN Stack**
+- 💬 Ask me about **Python, Machine Learning, MERN Stack, Blockchain**
 - 📫 Reach me at **melvinli199816@outlook.com**
-- ⚡ Fun fact: **I’m probably debugging in my dreams too**
-
+- My favouritest sentence is this;**Whatever U're be a good One.**
 > *“I automate boring stuff, one script at a time 🛠️”*
 
 <br>
