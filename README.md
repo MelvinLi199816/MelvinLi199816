@@ -1,11 +1,10 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi, I'm Melvin Li Welcome to my Github</h1>
+<h1 align="center">Hi, I'm <span color="red">Melvin Li</span> <br>Welcome to my Github</h1>
 <h3 align="center">A passionate Full-Stack & Blockchain developer</h3>
 <!-- <p align="center">I am fascinated by how computer technology 🌐 has changed our lives in unexpected ways. Seeing the growth of computer science made me want to study software engineering from a young age, and my enthusiasm has only grown since then. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p> -->
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=KDGehlot2003&label=Profile%20views&color=0e75b6&style=flat" alt="Melvin Li" /> 
  <!-- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Kshitij Gehlot's languages" /> -->
  <!-- <img alt="Profile followers" src="https://img.shields.io/github/followers/KDGehlot2003"> -->
 </p>
