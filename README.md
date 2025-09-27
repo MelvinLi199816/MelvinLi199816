@@ -31,9 +31,9 @@
 <br><br>
 
 <!-- - 🔭 I’m currently working as an **Associate Product Engineer Intern at DeltaX** -->
-- 💬 Ask me about **Python, Machine Learning, MERN Stack, Blockchain**
+- 💬 Ask me about **Python, Machine Learning, MERN Stack, Blockchain, Ethereum smart contract**
 - 📫 Reach me at **melvinli199816@outlook.com**
-- My favouritest sentence is this;**Whatever U're be a good One.**
+- My favouritest sentence is that;**"Whatever U're be a good One."**
 > *“I automate boring stuff, one script at a time 🛠️”*
 
 <br>
