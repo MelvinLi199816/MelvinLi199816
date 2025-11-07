@@ -32,7 +32,7 @@
 <!-- - 🔭 I’m currently working as an **Associate Product Engineer Intern at DeltaX** -->
 - 💬 Ask me about **Python, Machine Learning, MERN Stack, Blockchain, Ethereum smart contract**
 - 📫 Reach me at **toriojohn21@gmail.com**
-- My favouritest sentence is that;**"Whatever U're be a good One."**
+- My favouritest quote is that;**"Whatever U're be a good One."**
 > *“I automate boring stuff, one script at a time 🛠️”*
 
 <br>
@@ -114,4 +114,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
 <br>
-<p align="right" > Created with 🧡 by <a href="">Melvin Li </a></p>
+<p align="right" > Created with 🧡 by <a href="">SkyDev16 </a></p>
